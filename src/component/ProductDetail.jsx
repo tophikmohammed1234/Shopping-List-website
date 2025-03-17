@@ -1,4 +1,3 @@
-// src/components/ProductDetail.jsx
 import React from 'react';
 
 const ProductDetail = ({ product, addToCart }) => {

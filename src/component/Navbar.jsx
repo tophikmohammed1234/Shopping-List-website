@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Navbar = ({ onSearch, toggleCart, showCart }) => {
   return (
     <nav className="navbar">
